@@ -1,4 +1,25 @@
-# Projet : Festival Horizon 2027
+# Festival Horizon 2027
+
+## Description
+
+Site officiel du festival de musique Horizon 2027. Il présente le festival, les artistes, le programme et les informations pratiques.
+
+Projet réalisé en équipe avec Git et GitHub (branches, commits, issues et pull requests).
+
+## Membres du groupe
+
+- Morgan JOURDAN
+- Prénom NOM
+- Prénom NOM
+
+## Dépôt GitHub
+
+https://github.com/BenRobert38/festival2026-groupe-e
+
+
+
+
+
 
 L'agence EventWeb vous confie la réalisation du site officiel du festival de musique Horizon 2027.
 
