@@ -8,9 +8,10 @@ Projet réalisé en équipe avec Git et GitHub (branches, commits, issues et pul
 
 ## Membres du groupe
 
-- Morgan JOURDAN
-- Prénom NOM
-- Prénom NOM
+- Morgan
+- Aslan
+- Sofiane
+- Ismael
 
 ## Dépôt GitHub
 
